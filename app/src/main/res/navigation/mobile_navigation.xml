@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/home_Fragment">
+
+
+    <fragment
+        android:id="@+id/home_Fragment"
+        android:name="uz.ipanda.ussd.fragments.Home_Fragment"
+        tools:layout="@layout/fragment_home_">
+        <action
+            android:id="@+id/action_home_Fragment_to_operatorFragment"
+            app:destination="@id/operatorFragment"
+            app:popUpTo="@id/home_Fragment" />
+        <action
+            android:id="@+id/action_home_Fragment_to_usdFragment"
+            app:destination="@id/usdFragment" />
+        <action
+            android:id="@+id/action_home_Fragment_to_serviceFragment"
+            app:destination="@id/serviceFragment" />
+        <action
+            android:id="@+id/action_home_Fragment_to_tariffFragment"
+            app:destination="@id/tariffFragment" />
+        <action
+            android:id="@+id/action_home_Fragment_to_smsFragment"
+            app:destination="@id/smsFragment" />
+        <action
+            android:id="@+id/action_home_Fragment_to_internetFragment"
+            app:destination="@id/internetFragment" />
+        <action
+            android:id="@+id/action_home_Fragment_to_newsFragment"
+            app:destination="@id/newsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/operatorFragment"
+        android:name="uz.ipanda.ussd.fragments.OperatorFragment"
+        android:label="fragment_operator"
+        tools:layout="@layout/fragment_operator" />
+    <fragment
+        android:id="@+id/usdFragment"
+        android:name="uz.ipanda.ussd.fragments.USSDFragment"
+        android:label="fragment_u_s_s_d"
+        tools:layout="@layout/fragment_u_s_s_d" />
+    <fragment
+        android:id="@+id/tariffFragment"
+        android:name="uz.ipanda.ussd.fragments.TariffFragment"
+        android:label="fragment_tariff"
+        tools:layout="@layout/fragment_tariff" >
+        <action
+            android:id="@+id/action_tariffFragment_to_tariffSecondFragment"
+            app:destination="@id/tariffSecondFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/smsFragment"
+        android:name="uz.ipanda.ussd.fragments.SmsFragment"
+        android:label="fragment_sms"
+        tools:layout="@layout/fragment_sms" />
+    <fragment
+        android:id="@+id/tariffSecondFragment"
+        android:name="uz.ipanda.ussd.fragments.TariffSecondFragment"
+        android:label="fragment_tariff_second"
+        tools:layout="@layout/fragment_tariff_second" />
+    <fragment
+        android:id="@+id/smsListFragment"
+        android:name="uz.ipanda.ussd.fragments.SmsListFragment"
+        android:label="fragment_sms_list"
+        tools:layout="@layout/fragment_sms_list" />
+    <fragment
+        android:id="@+id/internetFragment"
+        android:name="uz.ipanda.ussd.fragments.InternetFragment"
+        android:label="fragment_internet"
+        tools:layout="@layout/fragment_internet" />
+    <fragment
+        android:id="@+id/internetListFragment"
+        android:name="uz.ipanda.ussd.fragments.InternetListFragment"
+        android:label="fragment_internet_list"
+        tools:layout="@layout/fragment_internet_list" />
+    <fragment
+        android:id="@+id/serviceFragment"
+        android:name="uz.ipanda.ussd.fragments.ServiceFragment"
+        android:label="fragment_service"
+        tools:layout="@layout/fragment_service" />
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="uz.ipanda.ussd.fragments.NewsFragment"
+        android:label="fragment_news"
+        tools:layout="@layout/fragment_news" >
+        <action
+            android:id="@+id/action_newsFragment_to_newsFragmentSecond"
+            app:destination="@id/newsFragmentSecond" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsFragmentSecond"
+        android:name="uz.ipanda.ussd.fragments.NewsFragmentSecond"
+        android:label="fragment_news_second"
+        tools:layout="@layout/fragment_news_second" />
+    <fragment
+        android:id="@+id/minuteFragment"
+        android:name="uz.ipanda.ussd.fragments.MinuteFragment"
+        android:label="fragment_minute"
+        tools:layout="@layout/fragment_minute" >
+        <action
+            android:id="@+id/action_minuteFragment_to_minuteListFragment"
+            app:destination="@id/minuteListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/minuteListFragment"
+        android:name="uz.ipanda.ussd.fragments.MinuteListFragment"
+        android:label="fragment_minute_list"
+        tools:layout="@layout/fragment_minute_list" />
+</navigation>

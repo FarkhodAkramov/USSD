@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable-v24/_second.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable-v24/ic_uzmobile_text_white.xml" value="0.23425925925925925" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/blue_circle.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/card_background.xml" value="0.23425925925925925" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_bell_blue.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_credit_card.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_hash.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_home_yellow.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_info_button.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_internet_yellow.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_logo.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_menu_camera.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_rate.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_share.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_share_white.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_telegram_logo.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_telegram_logo_white.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_user_blue.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/ic_uzmobile_text.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/item.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/navigation_backgraound.xml" value="0.23425925925925925" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/side_nav_bar.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/tab_indicator.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/drawable/white_backgraound.xml" value="0.2703125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/activity_language.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/content_main.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_gallery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_home_.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_internet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_internet_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_minute.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_minute_list.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_news.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_news_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_operator.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_service.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_slideshow.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_sms.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_sms_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_tariff.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_tariff_second.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/fragment_u_s_s_d.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/nav_header_main.xml" value="0.176" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/news_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/operator_item.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/service_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/sms_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/tab_item.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/tariff_item.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/ussd_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/layout/viewpager_menu_item.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/menu/activity_main_drawer.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/USSD/app/src/main/res/menu/main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

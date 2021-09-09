@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/telegram"
+            android:checked="false"
+            android:icon="@drawable/ic_telegram_logo"
+            android:title="Telegram" />
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/ic_share"
+            android:title="Ulashish" />
+        <item
+            android:id="@+id/rate"
+            android:icon="@drawable/ic_rate"
+            android:title="Baholash" />
+        <item
+            android:id="@+id/about_us"
+            android:icon="@drawable/ic_info_button"
+            android:title="Biz haqimizda" />
+    </group>
+</menu>

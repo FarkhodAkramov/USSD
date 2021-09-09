@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021996949984",
+    "project_id": "ussd-26d01",
+    "storage_bucket": "ussd-26d01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021996949984:android:bfa382862631d4e5a54b85",
+        "android_client_info": {
+          "package_name": "uz.ipanda.ussd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021996949984-2ur56j8t22fp0l2s9q2p7g1f0guu943j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMTaYXDyJftCWZWbfJGUeap4p1eM8GX9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021996949984-2ur56j8t22fp0l2s9q2p7g1f0guu943j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
